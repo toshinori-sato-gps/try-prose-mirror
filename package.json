@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "dev": "parcel ./index.html --open"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  },
+  "dependencies": {
+    "prosemirror-schema-basic": "^1.2.1",
+    "prosemirror-state": "^1.4.2",
+    "prosemirror-view": "^1.30.0"
+  }
+}
